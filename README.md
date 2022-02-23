@@ -48,4 +48,3 @@ This project uses Medium RSS API to get personal profile data and uses cheerio t
 ## Change Log
 
 `2021/10/14` : Update crawler regex for followers
-
